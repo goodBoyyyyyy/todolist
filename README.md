@@ -15,3 +15,5 @@ todo list app develped using reactjs.
 * User can delete, edit and shift up and shift down the todo's.
 * User can remove all the todo's at once.
 
+## DEMO:
+<img src="./public/todo.png">
